@@ -1,0 +1,21 @@
+
+  .button-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #1a202c;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    transition: all 0.2s ease;
+  }
+
+  .button-link:hover {
+    background-color: #2d3748;
+  }
+
+  .wallet-link {
+    padding-right: 20px;
+  }
